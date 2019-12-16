@@ -1,0 +1,207 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+
+body {
+  font: 11px Arial, sans-serif;
+}
+
+
+p {
+  display: inline !important;
+  text-transform: uppercase;
+  position: relative;
+  top: 19px;
+}
+
+div {
+  text-align: center;
+  }
+
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+
+.boxl1 {
+  height: 50px;
+  width: 8.37%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr1 {
+  height: 50px;
+  width: 91.63%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl2 {
+  height: 50px;
+  width: 16.70%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr2 {
+  height: 50px;
+  width: 83.30%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl3 {
+  height: 50px;
+  width: 25.03%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr3 {
+  height: 50px;
+  width: 74.97%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl4 {
+  height: 50px;
+  width: 33.36%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr4 {
+  height: 50px;
+  width: 66.64%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl5 {
+  height: 50px;
+  width: 41.69%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr5 {
+  height: 50px;
+  width: 58.31%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl6 {
+  height: 50px;
+  width: 50.02%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr6 {
+  height: 50px;
+  width: 49.98%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl7 {
+  height: 50px;
+  width: 58.35%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr7 {
+  height: 50px;
+  width: 41.65%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl8 {
+  height: 50px;
+  width: 66.68%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr8 {
+  height: 50px;
+  width: 33.32%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl9 {
+  height: 50px;
+  width: 75.01%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr9 {
+  height: 50px;
+  width: 24.99%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl10 {
+  height: 50px;
+  width: 83.334%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr10 {
+  height: 50px;
+  width: 16.666%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+
+.boxl11 {
+  height: 50px;
+  width: 91.667%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr11 {
+  height: 50px;
+  width: 8.333%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ADVANCE CSS SELECTORS */
